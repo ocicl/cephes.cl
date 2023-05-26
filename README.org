@@ -1,0 +1,10 @@
+* cephes.cl
+
+Wrapper for the Cephes Mathematical Library
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/cephes.cl.git |
+| commit  | fbe35f0                                        |
+| systems | cephes                                         |
+|---------+------------------------------------------------|
+
