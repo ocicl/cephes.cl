@@ -4,7 +4,7 @@ Wrapper for the Cephes Mathematical Library
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/cephes.cl.git |
-| commit  | fbe35f0                                        |
+| commit  | 0b0bcb2                                        |
 | systems | cephes                                         |
 |---------+------------------------------------------------|
 
